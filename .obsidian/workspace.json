@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b2b60bf335eff2eb",
+    "id": "4c3b170d978a8441",
     "type": "split",
     "children": [
       {
-        "id": "109e1873c68a8698",
+        "id": "88bf754abf484f37",
         "type": "tabs",
         "children": [
           {
-            "id": "39753e08190fbc4a",
+            "id": "404b7a9c89627d97",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2244c0cd5a887c92",
+    "id": "859a0edeb90e67a9",
     "type": "split",
     "children": [
       {
-        "id": "5d9470262d6075a4",
+        "id": "c0df57501232a398",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d7b3cf2a9a1c92",
+            "id": "c0b300a741ce2ad7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "f7b7a50a2d2ecc89",
+            "id": "68a66578b3ae5bbf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "10f2956c268483fa",
+            "id": "fccdea0e50769c1f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "b3bbad3962eb8710",
+    "id": "a9671ac4b443b2f2",
     "type": "split",
     "children": [
       {
-        "id": "ebe3909a109309a8",
+        "id": "a7678c0a2513f08b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5599d9cd86e6d4",
+            "id": "13ab4bb48658bf3a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "65a2e8acaa2fa9a3",
+            "id": "f3073429ce531d20",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "b4e7e16e78acfb64",
+            "id": "c5c75a37808d7908",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,18 +131,17 @@
             }
           },
           {
-            "id": "39d533a2d5f8ca59",
+            "id": "9a4b21401ab74b36",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -162,8 +161,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e7d7b3cf2a9a1c92",
-  "lastOpenFiles": [
-    "欢迎.md"
-  ]
+  "active": "404b7a9c89627d97",
+  "lastOpenFiles": []
 }
