@@ -158,9 +158,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "404b7a9c89627d97",
-  "lastOpenFiles": []
+  "active": "c0b300a741ce2ad7",
+  "lastOpenFiles": [
+    "生活",
+    "学习",
+    "工作",
+    "未命名.md"
+  ]
 }
