@@ -1,3 +1,10 @@
 {
-  "attachmentFolderPath": "/99.附件"
+  "attachmentFolderPath": "/99.附件",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
